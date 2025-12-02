@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "水平線",
+  "base_artist": "back number",
+  "createdAt": "2025-12-02T13:30:05.577087Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水平線",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/01_水平線_back_number.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "水平線",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/02_水平線_back_number.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "水平線",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/03_水平線_back_number.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "水平線",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/04_水平線_back_number.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "水平線 - Suiheisen",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/05_水平線_-_Suiheisen_back_number.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "水平線",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/06_水平線_back_number.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "水平線",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/07_水平線_back_number.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "水平線",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/08_水平線_back_number.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "水平線 - Suiheisen",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/09_水平線_-_Suiheisen_back_number.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "水平線",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/10_水平線_back_number.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "back number - 水平線",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/11_back_number_-_水平線_back_number.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "水平線",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/12_水平線_back_number.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "水平線",
+      "artist": "back number",
+      "has_synced": true,
+      "path": "select/13_水平線_back_number.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "水平線",
+      "artist": "稲葉浩志",
+      "has_synced": true,
+      "path": "select/14_水平線_稲葉浩志.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水平線",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_水平線_back_number.txt"
+    }
+  ]
+}
